@@ -1,0 +1,19 @@
+{
+    "editor.inlineCompletionsAccessibilityVerbose": true,
+    "editor.tabCompletion": "on",
+    "emmet.useInlineCompletions": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "editor.suggest.insertMode": "replace",
+    "terminal.integrated.commandsToSkipShell": [
+        "commands"
+    ],
+    "scm.alwaysShowActions": true,
+    "extensions.closeExtensionDetailsOnViewChange": true,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.accessibleViewPreserveCursorPosition": true,
+    "html.completion.attributeDefaultValue": "doublequotes",
+    "notebook.gotoSymbols.showAllSymbols": true,
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "auto"
+    }
+}
